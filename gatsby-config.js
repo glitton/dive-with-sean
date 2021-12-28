@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Scuba Diving Adventures`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Generosa Litton`,
+      summary: `who lives and works in San Francisco, CA and Puerto Morelos, Mexico.  This site is dedicated to my late nephew, Sean Litton.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Blog site part of Generosa Litton's portfolio site.`,
+    siteUrl: `https://glcodeworks.com/`,
     social: {
       twitter: `kylemathews`,
     },
