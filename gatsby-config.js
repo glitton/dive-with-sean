@@ -3,7 +3,7 @@ module.exports = {
     title: `Scuba Diving Adventures`,
     author: {
       name: `Generosa Litton`,
-      summary: `who lives and works in San Francisco, CA and Puerto Morelos, Mexico.  This site is dedicated to my late nephew, Sean Litton.`,
+      summary: `who lives and works in San Francisco, CA and Puerto Morelos, Mexico.  Posts are dedicated to my late nephew, Sean Litton.`,
     },
     description: `Blog site part of Generosa Litton's portfolio site.`,
     siteUrl: `https://glcodeworks.com/`,
@@ -13,6 +13,8 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
+    `gatsby-remark-embed-video`,
+    `gatsby-remark-responsive-iframe`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -32,17 +34,28 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: 800,
+              ratio: 1.77,
+              height: 400,
+              related: false,
+              noIframeBorder: true,
+            },
+          },
+          `gatsby-remark-responsive-iframe`,
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
             },
           },
-          {
-            resolve: `gatsby-remark-responsive-iframe`,
-            options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
-          },
+          // {
+          //   resolve: `gatsby-remark-responsive-iframe`,
+          //   options: {
+          //     wrapperStyle: `margin-bottom: 1.0725rem`,
+          //   },
+          // },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
@@ -57,59 +70,59 @@ module.exports = {
     //     trackingId: `ADD YOUR TRACKING ID HERE`,
     //   },
     // },
-    {
-      resolve: `gatsby-plugin-feed`,
-      options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                title
-                description
-                siteUrl
-                site_url: siteUrl
-              }
-            }
-          }
-        `,
-        feeds: [
-          {
-            serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.nodes.map(node => {
-                return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
-                  date: node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + node.fields.slug,
-                  guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [{ "content:encoded": node.html }],
-                })
-              })
-            },
-            query: `
-              {
-                allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
-                  nodes {
-                    excerpt
-                    html
-                    fields {
-                      slug
-                    }
-                    frontmatter {
-                      title
-                      date
-                    }
-                  }
-                }
-              }
-            `,
-            output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
-          },
-        ],
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-feed`,
+    //   options: {
+    //     query: `
+    //       {
+    //         site {
+    //           siteMetadata {
+    //             title
+    //             description
+    //             siteUrl
+    //             site_url: siteUrl
+    //           }
+    //         }
+    //       }
+    //     `,
+    //     feeds: [
+    //       {
+    //         serialize: ({ query: { site, allMarkdownRemark } }) => {
+    //           return allMarkdownRemark.nodes.map(node => {
+    //             return Object.assign({}, node.frontmatter, {
+    //               description: node.excerpt,
+    //               date: node.frontmatter.date,
+    //               url: site.siteMetadata.siteUrl + node.fields.slug,
+    //               guid: site.siteMetadata.siteUrl + node.fields.slug,
+    //               custom_elements: [{ "content:encoded": node.html }],
+    //             })
+    //           })
+    //         },
+    //         query: `
+    //           {
+    //             allMarkdownRemark(
+    //               sort: { order: DESC, fields: [frontmatter___date] },
+    //             ) {
+    //               nodes {
+    //                 excerpt
+    //                 html
+    //                 fields {
+    //                   slug
+    //                 }
+    //                 frontmatter {
+    //                   title
+    //                   date
+    //                 }
+    //               }
+    //             }
+    //           }
+    //         `,
+    //         output: "/rss.xml",
+    //         title: "Gatsby Starter Blog RSS Feed",
+    //       },
+    //     ],
+    //   },
+    // },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
