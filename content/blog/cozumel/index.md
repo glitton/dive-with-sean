@@ -8,7 +8,9 @@ Cozumel diving is always fun, it is drift diving at its best!
 
 This trip, I opted to stay in Scuba Club Cozumel mainly for the convenience of being able to wake up and just get on the boat. The facility have bigger boats, although slow, they are great for photographers.
 
-I took Sean with me and I am sure he enjoyed the gentle currents as each dive ...
+Sean was my dive buddy in spirit and I am sure he enjoyed drifting with the currents.
+
+`youtube: https://youtu.be/nzWVwoFmSj8`
 
 ## On deer horse aboard tritely yikes and much
 
