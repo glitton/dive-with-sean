@@ -32,6 +32,7 @@ const BlogPostTemplate = ({ data, location }) => {
         <hr />
         <footer>
           <Bio />
+          <a href="https://www.glcodeworks.com">Back to Home</a>
         </footer>
       </article>
       <nav className="blog-post-nav">
