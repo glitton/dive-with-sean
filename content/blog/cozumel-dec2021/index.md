@@ -6,7 +6,7 @@ description: "Just go with the flow."
 
 I've been diving Cozumel since 2015 and each time I come back, it feels like the first time. For this December 2021 trip, we opted to stay at the <a href="https://www.scubaclubcozumel.com" target="_blank">Scuba Club Cozumel</a> as it was very convenient. Eat, sleep, dive, repeat!
 
-Plus Leslie loves lounging on a hammock under the palapa. Happy wife, happy life :-)
+Plus Leslie loves lounging on a hammock under the palapa. Happy wife, happy life :joy:
 
 ![Scuba Club Cozumel](./Leslie.jpg)
 
@@ -19,11 +19,11 @@ The highlight of this trip's dive was seeing the seahorse "gallop" its way in th
 
 I also did a night dive at the Scuba Club Cozumel house reef. It was a pretty shallow dive, 30 feet max so we spent over an hour underwater.
 
-I was so excited to see this squid in all its colorful glory.
+I was so excited to see this squid in all its colorful glory. He probably got so tired of me being the paparazzi.
 
 ![squid](./squid.jpg)
 
-At the 50 minute mark, with more than 1000 psi of air still left, I started looking for the pulpo (octopus), after spending more than 20 minutes looking, we decided that we wouldn't see it. So we decided to wrap up our dive then this guy showed up!
+At the 50 minute mark, with about 1000 psi of air still left, I started looking for the pulpo (octopus). After spending more than 20 minutes looking, we decided that we would't be so fortunate. So it was :thumbsup: signaling that we were wrapping up our dive then this guy showed up!
 
 ![octopus](./octopus.jpg)
 
