@@ -17,3 +17,5 @@ Depths reach up to 35 feet with some soft corals and large schools of fish, most
 This is a great dive site for the novice diver and a very nice site to practice wide angle photography.
 
 As always, I felt safe and sound diving with [Omdelfin](https://omdelfin.com/).
+
+Hasta luego :wave:!
