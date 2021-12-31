@@ -17,11 +17,13 @@ The highlight of this trip's dive was seeing the seahorse "gallop" its way in th
 
 ![seahorse](./seahorse.jpg)
 
-I also did a night dive at the Scuba Club Cozumel house reef. I was so excited to see this squid in all its colorful glory.
+I also did a night dive at the Scuba Club Cozumel house reef. It was a pretty shallow dive, 30 feet max so we spent over an hour underwater.
+
+I was so excited to see this squid in all its colorful glory.
 
 ![squid](./squid.jpg)
 
-And as we were ready to wrap our dive, this guy showed up!
+At the 50 minute mark, with more than 1000 psi of air still left, I started looking for the pulpo (octopus), after spending more than 20 minutes looking, we decided that we wouldn't see it. So we decided to wrap up our dive then this guy showed up!
 
 ![octopus](./octopus.jpg)
 
