@@ -25,4 +25,4 @@ And as we were ready to wrap our dive, this guy showed up!
 
 ![octopus](./octopus.jpg)
 
-Here's more photos of the trip. Enjoy!
+Here's more photos showcasing of the trip <a href="https://adobe.ly/3qBVt9s" target="_blank">the best of Cozumel</a>. Enjoy!
