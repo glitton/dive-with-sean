@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogPostTemplate = ({ data, location }) => {
-  const post = data.markdownRemark
+  const post = data.mdx
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
 
@@ -47,14 +47,14 @@ const BlogPostTemplate = ({ data, location }) => {
         >
           <li>
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
+              <Link to={previous.slug} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={next.fields.slug} rel="next">
+              <Link to={next.slug} rel="next">
                 {next.frontmatter.title} →
               </Link>
             )}
@@ -78,31 +78,28 @@ export const pageQuery = graphql`
         title
       }
     }
-    markdownRemark(id: { eq: $id }) {
+    mdx(id: { eq: $id }) {
       id
-      excerpt(pruneLength: 160)
-      html
+      excerpt(pruneLength: 125)
       frontmatter {
-        title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMMM DD YYYY")
         description
+        title
       }
+      body
+      slug
     }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
-      fields {
-        slug
-      }
+    previous: mdx(id: { eq: $previousPostId }) {
       frontmatter {
         title
       }
+      slug
     }
-    next: markdownRemark(id: { eq: $nextPostId }) {
-      fields {
-        slug
-      }
+    next: mdx(id: { eq: $nextPostId }) {
       frontmatter {
         title
       }
+      slug
     }
   }
 `
