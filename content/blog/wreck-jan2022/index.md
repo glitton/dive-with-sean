@@ -6,8 +6,13 @@ date: "2022-01-15T09:46:37.121Z"
 I love diving the C-56 in Puerto Morelos as I still have yet to take a good wreck shot. I think these shots were a bit better but not yet National Geographic ready!
 
 ![Diver Wreck](./diver_wreck.jpg)
+![Wreck Front](./wreck_front.jpg)
 
-This time I focused more on getting shots with people in it. Thanks to my dive buddies for allowing me to take photos of them ![Delphine](./delphine.jpg):smile:! Plus the boat captain, Mr. Rana, accidently took a shot of me which I thought was so cool!
+This time I focused more on getting shots with people in it. ![Delphine](./delphine.jpg) :smile:
+
+Thanks to my dive buddies for allowing me to take photos of them!
+
+Plus the boat captain, Mr. Rana, accidently took a shot of me which I thought was so cool!
 
 ![G diver](./gdiver.jpg)
 
