@@ -19,7 +19,8 @@ Heading out, the water was a bit choppy and thus we didn't head out very far. We
 
 I always enjoyed diving these sites where I got to see the usual suspects but my favorites include the tree fish which is a black and yellow striped fish with red lips and a male sheephead.
 
-Check out the video which I shot using the new GoPro Hero 10. As you can see, the vizibil
+Check out the video which I shot using the new GoPro Hero 10. As you can see, the vizibility wasn't great. It was like doing a night dive during the day with some surge :smile:
+
 `youtube: https://www.youtube.com/watch?v=kaQX25tvclQ`
 
 Enjoy :wave:!
