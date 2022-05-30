@@ -15,12 +15,12 @@ I had the boots changed to fit my feet as well as have the arms and legs shorted
 
 ![G Sean Drysuit](./g-seans-drysuit.jpg)
 
-Heading out, the water was a bit choppy and thus we didn't head out very far. We ended up diving Metridium Mountain where you'd see a lot of metridiums which are sea anemones that look like cauliflower and Macabee Pinnacle.
+As we got out of the harbour, we all noticed that the water was a bit choppy and thus we didn't head out very far. Capt. MaryJo of the <a href="http://www.beachhopper2.com/" target="_blank">Beachhopper II</a> took us to Metridium Mountain where you'd see a lot of metridiums which are sea anemones that look like cauliflower and an old Monterey dive spot favorite, Macabee Pinnacle.
 
-I always enjoyed diving these sites where I got to see the usual suspects but my favorites include the tree fish which is a black and yellow striped fish with red lips and a male sheephead.
+I always enjoyed diving these sites where I got to see the usual suspects but my favorite sitings include the tree fish which is a black and yellow striped fish with red lips and the resident male sheephead at Macabee.
 
-Check out the video which I shot using the new GoPro Hero 10. As you can see, the vizibility wasn't great. It was like doing a night dive during the day with some surge :smile:
+Check out the video which I shot using the new GoPro Hero 10. As you can see, the vizibility wasn't great. It was like doing a night dive during the day with some surge :smile:.
 
 `youtube: https://www.youtube.com/watch?v=kaQX25tvclQ`
 
-Enjoy :wave:!
+Enjoy :smiley_cat:!
