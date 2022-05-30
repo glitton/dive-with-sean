@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { MDXRenderer } from "gatsby-plugin-mdx"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -15,8 +16,8 @@ const BlogIndex = ({ data, location }) => {
         <Seo title="All posts" />
         <Bio />
         <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
+          No blog posts found. Add mdx posts to "content/blog" (or the directory
+          you specified for the "gatsby-source-filesystem" plugin in
           gatsby-config.js).
         </p>
       </Layout>
@@ -47,12 +48,9 @@ const BlogIndex = ({ data, location }) => {
                   <small>{post.frontmatter.date}</small>
                 </header>
                 <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
+                  <MDXRenderer>
+                    {post.frontmatter.description || post.excerpt}
+                  </MDXRenderer>
                 </section>
               </article>
             </li>

@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { MDXRenderer } from "gatsby-plugin-mdx"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -9,6 +10,8 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.mdx
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+
+  // console.log("this is data", data)
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -25,10 +28,7 @@ const BlogPostTemplate = ({ data, location }) => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
+        <MDXRenderer>{post.body}</MDXRenderer>
         <hr />
         <footer>
           <Bio />

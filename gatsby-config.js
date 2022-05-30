@@ -5,7 +5,7 @@ module.exports = {
       name: `Generosa Litton`,
       summary: `who lives and works in San Francisco, CA and Puerto Morelos, Mexico.  Posts are dedicated to my late nephew, Sean Litton.`,
     },
-    description: `Blog site part of Generosa Litton's portfolio site.`,
+    description: `Blogs are part of Generosa Litton's portfolio site.`,
     siteUrl: `https://glcodeworks.com/`,
     social: {
       twitter: `LittonG`,
@@ -57,9 +57,11 @@ module.exports = {
           {
             resolve: `gatsby-source-filesystem`,
             options: {
-              path: `${__dirname}/blog`,
+              path: `${__dirname}/content/blog`,
+              name: `blog`,
             },
-          }`gatsby-remark-prismjs`,
+          },
+          `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-emoji`,
@@ -82,8 +84,5 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 }
