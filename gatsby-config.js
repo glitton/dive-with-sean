@@ -13,7 +13,6 @@ module.exports = {
   },
   pathPrefix: `/blog`,
   plugins: [
-    `gatsby-plugin-mdx`,
     `gatsby-plugin-image`,
     `gatsby-remark-embed-video`,
     `gatsby-remark-responsive-iframe`,
@@ -31,8 +30,11 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    `gatsby-remark-images`,
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: `gatsby-plugin-mdx`,
       options: {
         plugins: [
           {
@@ -52,15 +54,19 @@ module.exports = {
               maxWidth: 630,
             },
           },
-          `gatsby-remark-prismjs`,
+          {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+              path: `${__dirname}/blog`,
+            },
+          }`gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-emoji`,
         ],
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
