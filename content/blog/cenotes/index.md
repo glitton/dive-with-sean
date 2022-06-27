@@ -15,4 +15,4 @@ Check out the video of this dive which I did with my neighbor Walt and Andres of
 
 Since Maravilla was closed, I didn't know what to expect diving Cenote Kin-ha. To my surprise, it was just as cavernous as Marvilla! The highlight for me was seeing the ray of light shining through highlighting the free divers.
 
-Enjoy the video here `https://youtu.be/9g51X7j6bmA`! 🤿
+Enjoy the video here `youtube: https://youtu.be/9g51X7j6bmA`! 🤿
