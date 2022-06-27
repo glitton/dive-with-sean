@@ -1,5 +1,5 @@
 ---
-title: Cenotes of Puerto Morelos
+title: Magic in the jungle
 date: "2022-06-26T12:12:03.284Z"
 description: "Magic in the jungle."
 ---
