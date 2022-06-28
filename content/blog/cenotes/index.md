@@ -1,6 +1,7 @@
 ---
 title: Magic in the jungle
 date: "2022-06-26T12:12:03.284Z"
+description: "Cenotes diving in Puerto Morelos, Mexico."
 ---
 
 I've been to a number of cenotes since I've been visiting and now living in Mexico. A cenote, pronounced as “seh-no-tay”, is a natural sinkhole looking like an underground chamber or cave containing fresh water with a temperature of 77 degree fahrenheit. It's a great way to cool off during the hot summers in Mexico but you can also go scuba diving in them!
