@@ -27,4 +27,4 @@ At the 50 minute mark, with about 1000 psi of air still left, I started looking 
 
 ![octopus](./octopus.jpg)
 
-Here's more photos showcasing <a href="https://adobe.ly/3qBVt9s" target="_blank">the best of Cozumel</a>. Enjoy! :smile:
+Here's more photos showcasing <a href="https://adobe.ly/3qDyQS0" target="_blank">the best of Cozumel</a>. Enjoy! :smile:
