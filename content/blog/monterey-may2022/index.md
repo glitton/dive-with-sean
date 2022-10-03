@@ -1,5 +1,5 @@
 ---
-title: Diving Montery in May.
+title: Diving Montery in May
 date: "2022-05-20T09:00:00.121Z"
 ---
 
