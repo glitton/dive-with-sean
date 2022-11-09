@@ -21,7 +21,7 @@ and anchored at our desired dive spot which is called Batoc. Batoc is tagalog fo
 `youtube: https://youtube.com/shorts/LhDCmt5rY6s`
 <br>
 
-Sombrero is tagalog and also Spanish for hat as you can see with the island's shape.
+Sombrero is a Tagalog word (and a Spanish one too) for hat as you can see with the island's shape.
 <br>
 
 <img src="./sombrero.jpg" alt="island" width="600"><br>
@@ -29,8 +29,10 @@ Sombrero is tagalog and also Spanish for hat as you can see with the island's sh
 Prior to spreading Sean's ashes, my sister Jenny, gave a very beautiful speech stating how we all loved and missed Sean, thanked everybody for spending the time to be at the event, and that although the price of love is grief, we would do it all over again.
 `youtube: https://youtube.com/shorts/A4T-IHjfODQ`
 
-The dive which usually has some current was perfect! No current at all from Batoc to Beatrice. The highlight for me was this very shy yellowish frogfish. I spotted it swimming to this wall and it was challenging to get a shot of her but I managed
+The dive site usually has some current but not this time, the conditions were perfect! No current at all from Batoc to Beatrice. The highlight for me was this very shy yellowish frogfish. I spotted it swimming to this wall and it was challenging to get a shot of her but I managed.
 
 ![yellow_frog_fish](./yellow-frog-fish.jpg)
+
+Additional photos are <a href="https://adobe.ly/3hiDHae" target="_blank">here</a>
 
 I'm hanging out doing more dives the next few days so I'll be posting more photos. Stay tuned! 🤿
