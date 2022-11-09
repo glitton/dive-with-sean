@@ -33,4 +33,4 @@ The dive which usually has some current was perfect! No current at all from Bato
 
 ![yellow_frog_fish](./yellow-frog-fish.jpg)
 
-I'm hanging out doing more dives the next few days so I'll be posting more photos. Stay tuned! 🏊‍♀️
+I'm hanging out doing more dives the next few days so I'll be posting more photos. Stay tuned! 🤿
