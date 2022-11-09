@@ -8,6 +8,10 @@ Scuba diving Anilao brings back childhood memories of when it would take at leas
 
 Many of my American scuba diving photographer friends have raved about staying at Crystal Blue Resort home of the famous underwater photographer, Mike Bartick. So I checked it out this trip.
 
-Highlights of this trip include numberous frogfish, pygmy seahorses, et c ...
+Anilao is really a macro photographer's playground. You won't be tired of finding those tiny subjects from pygmy seahorses, various nudibranchs to tiny chrimp and crabs living in anemonies.
+
+I had a blast and would definitely return!
+
+Best of Anilao pictures are <a href="https://adobe.ly/3WLsn6y" target="_blank">here</a>
 
 Hasta luego :wave:
