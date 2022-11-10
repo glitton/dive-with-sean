@@ -13,6 +13,10 @@ And a yellow one which we saw at the dive site Old Bethlehem. The Hippocampus De
 
 ![yellow-seahorse](./yellow-pygmy.jpg).
 
+For perspective, check out the size of the pygmy seahorse as compared to the pointy stick used by my spotter.
+
+![prespective](./pygmy-pointer.jpg)
+
 Some fun facts about pygmy seahorses (source: <a href="https://oceana.org/marine-life/pygmy-seahorse/" target="_blank">oceana.org</a>):
 
 1. Bargibant’s pygmy seahorses live between 52.5 to 131 feet (16-40 m) deep.
