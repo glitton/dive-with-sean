@@ -26,6 +26,10 @@ Sombrero is a Tagalog word (and a Spanish one too) for hat as you can see with t
 
 <img src="./sombrero.jpg" alt="island" width="600"><br>
 
+I was with Sean, his girlfriend Gabbie, and his first shnauzer Milo, in this same dive site in February 2015
+
+![dive-with-sean](./sean-gaby-milo-osay.jpeg)
+
 Prior to spreading Sean's ashes, my sister Jenny, gave a very beautiful speech stating how we all loved and missed Sean, thanked everybody for spending the time to be at the event, and that although the price of love is grief, we would do it all over again.
 `youtube: https://youtube.com/shorts/A4T-IHjfODQ`
 
