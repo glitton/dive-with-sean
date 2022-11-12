@@ -4,7 +4,7 @@ date: "2022-11-06T11:00:00.284Z"
 description: "Anilao Diving With Sean"
 ---
 
-It has been a year since Sean passed away last Nov. 6, 2021. To commemorate Sean's life and our love for him, we planned a dive memorial where in we would dive his favorite spot in Anilao Batangas, Batoc to Beatrice. Anilao brings me lots of fond memories; I learned how to scuba dive there way back in the early 80s.
+It has been a year since Sean passed away last Nov. 6, 2021. To commemorate Sean's life and our love for him, we planned a dive memorial where in we would dive his favorite spot in Anilao Batangas: Batoc to Beatrice. Anilao brings me lots of fond memories; I learned how to scuba dive there way back in the early 80s.
 
 ![Anilao Batangas](./anilao-dive-sites.jpg).
 
