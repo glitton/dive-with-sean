@@ -16,7 +16,7 @@ We had a great time telling our favorite Sean memories. One thing everyone had i
 <br>
 
 On the dive day itself, Nov. 6, 2022, we took a 25 minute boatride to Sombrero Island
-and anchored at our desired dive spot which is called Batoc which is Tagalog for the "back of the neck." It was the starting point where we decenda and it was located behind Sombrero Island.
+and anchored at our desired dive spot which is called Batoc which is Tagalog for the "back of the neck." Located behind Sombrero Island, Batoc was the starting point where we started our dive.
 
 `youtube: https://youtube.com/shorts/LhDCmt5rY6s`
 <br>
