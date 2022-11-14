@@ -4,16 +4,15 @@ date: "2022-11-10T11:00:00.284Z"
 description: "So Many Pygmy Seahorses So Little Time!"
 ---
 
-One of the little animals that you are guaranteed to see (if you have a spotter) when diving in Anilao is the pygmy seahorse or the Hippocampus Bargibanti. During this dive trip, I saw two varieties. The typical gray/light purple with the pink bumps (they are called tubercles) which I saw at the dive site Kirby's Rock and also at Koala.
+One of the little animals that you are guaranteed to see (especially if you have a good spotter) when diving in Anilao is the pygmy seahorse or the Hippocampus Bargibanti. During this dive trip, I saw two varieties. The typical gray/light purple with the pink bumps (they are called tubercles) which I saw at the dive site Kirby's Rock and also at Koala.
 
 ![purple-seahorse](./purple-pygmy.jpg)
 
-And a yellow one which we saw at the dive site Old Bethlehem. The Hippocampus Denise, also known as Denise's pygmy seahorse or the yellow pygmy seahorse is a wee bit bigger than the other one. I was able to spot this variety with my own eyes, although I did have a macro lens so it was much easier!
-🔎
+And a yellow one which we saw at the dive site Old Bethlehem. The Hippocampus Denise, also known as Denise's pygmy seahorse or the yellow pygmy seahorse is a wee bit bigger than the other one. I was able to spot this variety with my own eyes, although I did have a macro lens so it was much easier! 🔎
 
 ![yellow-seahorse](./yellow-pygmy.jpg).
 
-For perspective, check out the size of the pygmy seahorse as compared to the pointy stick used by my spotter.
+For perspective, check out the size of the pygmy seahorse as compared to the pointy stick used by my spotter dive master.
 
 ![prespective](./pygmy-pointer.jpg)
 

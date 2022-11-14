@@ -8,7 +8,7 @@ I learned that all clownfish are born male and then become female when the male'
 
 ![clownfish](./clownfish.jpg)
 
-You likely have seen clownfish inside anemones. I learned that they have a very symbiotic relationship wherein the clownfish provides the anemone nutrients in the form of waste while also scaring off potential predator fish. In return, the anemone provides the clownfish with protection and shelter.
+You likely have seen clownfish swimming inside anemones. I learned that they have a very symbiotic relationship wherein the clownfish provides the anemone nutrients in the form of waste while also scaring off potential predator fish. In return, the anemone provides the clownfish with protection and shelter.
 
 `youtube: https://youtu.be/yfCMP_YVjyI`
 

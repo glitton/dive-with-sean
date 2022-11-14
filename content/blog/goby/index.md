@@ -10,7 +10,7 @@ The morning of Nov. 9 brought me to a familiar dive site, the Dari Laut. This si
 
 Source: Unknown, n.d.
 
-I remember diving this site in the mid-80s. It was a popular one, usually there wasn't any current. I vividly recall seeing an upside down toilet :smile:. inside the wreck.
+I remember diving this site in the mid-80s. It was a popular one for newer divers as there usually isn't any current. I vividly recall seeing an upside down toilet :smile: inside the wreck.
 
 Today, just the frame of the boat remains however, the site has many nudibranchs and other creatures and most of all, there was no current!
 

@@ -23,7 +23,7 @@ Anilao is really a macro photographer's playground; it's known as the nudibranch
 9. The stunning colors come from the food they eat and some can also store some toxins from their prey.
 10. These bright colors and impressive patterns are for camouflage (blend in) and defense (not eatable).
 
-Here are pictures of some nudies including their interesting behavior.
+Here are my favorite nudie pictures including their interesting behavior.
 
 <img width="50" alt="nudibranch" src="./hypse-apolegma.jpg">
 

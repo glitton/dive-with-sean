@@ -16,7 +16,7 @@ We had a great time telling our favorite Sean memories. One thing everyone had i
 <br>
 
 On the dive day itself, Nov. 6, 2022, we took a 25 minute boatride to Sombrero Island
-and anchored at our desired dive spot which is called Batoc. Batoc is Tagalog for the "back of the neck" as the starting point where we would dive was behind Sombrero Island.
+and anchored at our desired dive spot which is called Batoc which is Tagalog for the "back of the neck." It was the starting point where we decenda and it was located behind Sombrero Island.
 
 `youtube: https://youtube.com/shorts/LhDCmt5rY6s`
 <br>
@@ -26,14 +26,14 @@ Sombrero is a Tagalog word (and a Spanish one too) for hat as you can see with t
 
 <img src="./sombrero.jpg" alt="island" width="600"><br>
 
-I was with Sean, his girlfriend Gabbie, and his first shnauzer Milo, in this same dive site in February 2015
+I was with Sean, his girlfriend Gabbie, and his first shnauzer Milo, in this same dive site back in February 2015.
 
 ![dive-with-sean](./sean-gaby-milo-osay.jpeg)
 
 Prior to spreading Sean's ashes, my sister Jenny, gave a very beautiful speech stating how we all loved and missed Sean, thanked everybody for spending the time to be at the event, and that although the price of love is grief, we would do it all over again.
 `youtube: https://youtube.com/shorts/A4T-IHjfODQ`
 
-The dive site usually has some current but not this time; the conditions were perfect! No current at all from Batoc to Beatrice. The highlight for me was this very shy yellowish frogfish. I spotted it swimming to this wall and it was challenging to get a shot of her but I managed.
+The dive site usually has some current but not this time; the conditions were perfect! No current at all going from Batoc to Beatrice. The highlight for me was this very shy yellowish frogfish. I spotted it swimming to this wall and it was challenging to get a shot of her but I managed.
 
 ![yellow_frog_fish](./yellow-frog-fish.jpg)
 
