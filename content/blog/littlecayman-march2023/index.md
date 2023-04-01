@@ -41,4 +41,4 @@ The groupers were aplenty and often very friendly so getting up close wasn't a p
 
 ![grouper](./grouper.jpg)
 
-<a href="https://generosalitton.smugmug.com/Little-Cayman-March-2023/" target="_blank">Here's more</a> of my favorite shots of the sea life in Little Caymen. I'll be back! :wave:
+<a href="https://generosalitton.smugmug.com/Little-Cayman-March-2023/" target="_blank">Here's more</a> of my favorite shots of the sea life in Little Cayman. I'll be back! :wave:
