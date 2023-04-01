@@ -4,7 +4,7 @@ date: "2023-04-01T09:00:00.121Z"
 description: "Wide Angle Photograpy Is Fun!"
 ---
 
-Wide angle photography has always been a challenge for me so I decided to join <a href="https://www.backscatter.com/" target="_blank">Backscatter's</a> Wide Angle Underwater Photography bootcamp in Little Cayman where Jim Decker (check out some his articles <a href="https://www.scubadiving.com/authors/jim-decker-ceo-backscatter-underwater-video-and-photo" target="_blank">here</a>) and Erin Quigley of <a href="https://www.goaskerin.com/">goaskerin.com</a> taught us underwater photography techniques and post production sorcery :smiling_imp: using Lightroom and Photoshop.
+Wide angle photography has always been a challenge for me so I decided to join <a href="https://www.backscatter.com/" target="_blank">Backscatter's</a> Wide Angle Underwater Photography bootcamp in Little Cayman where Jim Decker, CEO of Backscatter (check out some of his articles <a href="https://www.scubadiving.com/authors/jim-decker-ceo-backscatter-underwater-video-and-photo" target="_blank">here</a>) and Erin Quigley of <a href="https://www.goaskerin.com/">goaskerin.com</a> taught us underwater photography techniques and post production sorcery :smiling_imp: using Lightroom and Photoshop.
 
 I never dove Little Cayman but wow, I was very impressed! The scuba diving is similar to Cozumel but without the tourists, cruise ships and current! The reefs were much healthier and we got to experience the famous Bloody Bay Wall, got up close and personal with stingrays, turtles, and groupers, and also got the chance to photograph the various barrel sponges and soft corals.
 
