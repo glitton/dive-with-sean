@@ -37,6 +37,18 @@ But my awesome buddy Deb Stewart, took some shots of me including me chatting it
 ![g-turtle](./g-turtle.jpg)
 <font size="1rem">Photo by: Deb Stewart</font>
 
+Here I am hamming it up at the 120 cargo freighter, the Soto Trader Wreck.
+
+![g-wreck1](./GenerosaWreckLC.jpg)
+<font size="1rem">Photo by: Deb Stewart</font>
+
+![g-wreck2](./Generosa2WreckLC.jpg)
+<font size="1rem">Photo by: Deb Stewart</font>
+
+And another of me trying to take a shot of the beautiful trigger fish.
+![g-triggerfish](./GenerosaTriggerfish.jpg)
+<font size="1rem">Photo by: Deb Stewart</font>
+
 The groupers were aplenty and often very friendly so getting up close wasn't a problem.
 
 ![grouper](./grouper.jpg)
