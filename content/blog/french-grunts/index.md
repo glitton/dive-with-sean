@@ -4,7 +4,7 @@ date: "2023-05-23T08:30:03.284Z"
 description: "The French Grunt aka Haemulon flavolineatum"
 ---
 
-When diving in the Carribean especially in Puerto Morelos, you will likely see a variet of french grunts whose scientific name is Haemulon flavolineatum. One of my favorite dive sights to capture these guys is called "Fish Market."
+When diving in the Carribean especially in Puerto Morelos, you will likely see a variety of french grunts whose scientific name is Haemulon flavolineatum. One of my favorite dive sights to capture these guys is called "Fish Market."
 
 As you can see in the various photos below, it's easy to see how the site got its name.
 
