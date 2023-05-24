@@ -16,7 +16,7 @@ As you can see in the various photos below, it's easy to see how the site got it
 
 Fish Market is literally swarming with large schools of french grunts who got their name from the sound that they make when grinding their teeth. You will notice that most of them are yellow with either silver stripes or silver with yellow stripes. It is quite fun swimming through them as they are very comfortable with divers being around them.
 
-You will also enjoy various soft corals and occasional angel fish, seargent major and blue tang (Dory!) swimming amongst the grunts.
+I also enjoyed swimming with various soft corals and watching the occasional angel fish, seargent major and blue tang (Dory!) swimming amongst the grunts.
 
 ![soft-coral](./soft-coral.jpeg)
 
