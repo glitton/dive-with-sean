@@ -1,7 +1,7 @@
 ---
-title: Back to Scuba Club Cozumel
+title: The Walls of Cozumel
 date: "2023-05-29T09:30:03.284Z"
-description: "The Walls of Cozumel"
+description:
 ---
 
 Cozumel is known for its large coral head formations and deep walls. I decided to head back there and stay at the Scuba Club Cozumel as I find it is the place that offers the best "bang for your buck". :money_mouth:

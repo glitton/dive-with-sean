@@ -1,5 +1,6 @@
 {
   "MD033": {
     "allowed_elements": ["nobr", "sup", "a"]
-  }
+  },
+  "MD013": false
 }
