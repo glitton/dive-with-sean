@@ -32,7 +32,9 @@ This shot made me think that this blenny was crying, oh no!
 
 ![tough_blenny](./blennies-2.jpg)
 
-This blenny was trying to scream at me to get off her lawn!
+![get_out_blenny](./blennie_new.jpg)
+
+These blennies were trying to scream at me to get off their lawn!
 
 ![shy_blennie](./blennie2.jpg)
 
