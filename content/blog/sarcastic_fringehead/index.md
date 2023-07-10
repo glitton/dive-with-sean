@@ -4,23 +4,30 @@ date: "2023-07-08T10:12:03.284Z"
 description: "The sarcastic fringehead"
 ---
 
-I did a dive off the Beachhopper II and the conditions were a bit bumpy so we didn't head out far from Monterey Bay. One of my favorite dive sites is one called Shale Island which to my understanding was formed during the 1989 Loma Prieta earthquake. It is a raised plateau or what I'd like to imagine as a giant round table approximately 400ft long and 120ft wide. Under the table top, you will find lots of small critters. I usually dive this site in a clockwise direction then turn around once I hit a sunken anchor covered with strawberry anemonies.
+I did a dive off the Beachhopper II in July 2023 and the conditions were a bit bumpy so we didn't head out far from Monterey Bay. One of my favorite dive sites is one called Shale Island which to my understanding was formed during the 1989 Loma Prieta earthquake. It is a raised plateau or what I'd like to describe as a giant round table approximately 400ft long and 120ft wide. Under the table top, you will find lots of small critters. <a href="https://cadivingnews.com/dive-spots/island-isnt-montereys-shale-island/" target="_blank">Here's</a> a great description of the dive site from California Diving magazine.
 
-For this time, I ventured to the left or counter-clockwise where we spotted not one, not two, but three fringeheads!
+I usually dive this site in a clockwise direction then turn around once I hit a sunken anchor covered with strawberry anemones.
 
-![fringehead](https://photos.smugmug.com/MontereyFringeheads/i-NzWtS6S/0/2ebe2e53/XL/MontereyJuly2023-36-XL.jpg)
+This time, I ventured to the left or counter-clockwise where we spotted not one, not two, but three fringeheads! :scream:
+
+![fringehead](./fringehead.jpg)
 
 These species are known as the sarcastic fringehead due to their territorial temperament and the decorative "branches" above their eyes.
 
-I also spotted a baby wolf eel hiding inside its hole and I couldn't get enough of her. So cute!
-![wolf_eel](https://photos.smugmug.com/MontereyJuly2023/i-kRNTbvv/0/4c1c9b4b/L/MontereyJuly2023-33-L.jpg)
+I also spotted a baby wolf eel hiding inside its hole and I couldn't get enough of her.
 
-My dive buddy also spotted a sleeping octopus but alas, I couldn't get a shot cause I ran out of battery! The 90mm lens consumes more juice due to the autofocus action so I need to figure this out next time.
+![wolf_eel](./wolfeel.jpg)
+
+So cute! :heart_eyes:
+
+My dive buddy also spotted a sleeping octopus but alas, I couldn't get a shot cause I ran out of battery! The 90mm lens consumes more juice due to the autofocus action so I need to figure out how to get my subjects in focus more efficiently.
 
 Here's more <a href="https://generosalitton.smugmug.com/MontereyFringeheads/" target="_blank">fringehead photos</a>.
 
 What do you think of these sarcastic dudes? :smiling_imp:
 
-![fringehead2](https://photos.smugmug.com/MontereyFringeheads/i-VWfLzbG/0/c94cf3c7/L/MontereyJuly2023-25-L.jpg)
+![fringehead2](./sarcasticfringehead.jpg)
 
-Do you think the name is apropos?
+Do you think the name is apropos? :question: Would love to read your comments!
+
+Will be doing another dive in late July, excited to keep taking pictures with my 90mm lens! :boom:
