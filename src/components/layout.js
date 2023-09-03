@@ -24,7 +24,7 @@ const Layout = ({ location, title, children }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
       <div className="back-to-home">
-        <a href="https://www.glcodeworks.com">Back to Home</a>
+        <a href="https://glcodeworks.com">Back to Home</a>
       </div>
 
       <main>{children}</main>
